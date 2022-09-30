@@ -16,7 +16,7 @@ I like to see science turned into operational products and software that the com
 
 - [Global Renosterveld Watch](https://github.com/mgietzmann/global_renosterveld_watch): Deploys trained tensorflow models to GCP via Apache Beam to predict shrubland habitat loss .
 
-- [hyper-iap](https://github.com/GMoncrieff/hyper-iap): A python module for mapping alien invasive plants from hyper spectral imagery using deep learning.
+- [hyper-iap](https://github.com/GMoncrieff/hyper-iap): A python module for mapping alien invasive plants from hyperspectral imagery using deep learning.
   
 - [saeonobsr](https://github.com/GMoncrieff/saeonobsr): An R package to query and downloaded environmental data from the SAEON observations database
 
@@ -27,7 +27,7 @@ My time is currently primarily devoted to these projects
 
 - 🔥 [Ecosystem Monitoring for Management Application](www.emma.eco)
  Combining Earth observations in situ observations, and Bayesian ecological forecasting models to characterise vegetation state and predict postfire recovery in a highly biodiverse shrublands. We are producing an operational system to support the decisions of land mangers and help them identify ecosystem degradation from a range of causes
--  🌈 Mapping species and simulating virtual plants as part of NASA-s first biodiversity focussed field camping, the [Biodiversity Survey of the Cape](https://bioscape.io). BioScape is collecting high resolution hyperspectral, thermal and Lidar data of the Cape Floristic Region to test the limits of what we can learn  about diversity from space.
+-  🌈 Mapping species and simulating virtual plants as part of NASAs first biodiversity focussed field camping, the [Biodiversity Survey of the Cape](https://bioscape.io). BioScape is collecting high resolution hyperspectral, thermal and Lidar data of the Cape Floristic Region to test the limits of what we can learn  about diversity from space.
 
 Want to connect?
 
