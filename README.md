@@ -2,7 +2,7 @@
 
 My name is Glenn Moncrieff and I am a *Geospatial Data Scientist* based in Cape Town, South Africa.
 
-![ Cape Town ISS](cites.jpeg "Cape Town from the ISS)
+![Cape Town ISS](ctiss.jpeg)
 
 My background is in geography and ecology, and nowadays I spend most of my time observing the earth with satellites 🛰️
 
