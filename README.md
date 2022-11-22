@@ -33,5 +33,5 @@ Want to connect?
 
 - 💻 Get in touch to chat about projects with a geospatial, earth observation or biodiversity focus: <glennmoncrieff@gmail.com>
 
-- 📫 Follow on Twitter as [@glennwithtwons](https://twitter.com/Glennwithtwons), or read a post on my [website](https://gmoncrieff.github.io/)
+- 📫 Follow me on Twitter as [@glennwithtwons](https://twitter.com/Glennwithtwons), or read a post on my [website](https://gmoncrieff.github.io/)
 
