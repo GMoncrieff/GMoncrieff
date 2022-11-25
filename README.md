@@ -1,6 +1,6 @@
 ### Hello / Howzit / Molo 👋
 
-My name is Glenn Moncrieff and I am a *Geospatial Data Scientist* and *ML reseacher* based in Cape Town, South Africa.
+My name is Glenn Moncrieff and I am a *Geospatial Data Scientist* and *ML researcher* based in Cape Town, South Africa.
 
 ![Cape Town ISS](ctiss.jpeg)
 
