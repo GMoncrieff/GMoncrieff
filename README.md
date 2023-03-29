@@ -16,7 +16,7 @@ I like to see science turned into real-world applications and software that the 
 
 - [Global Renosterveld Watch](https://github.com/mgietzmann/global_renosterveld_watch): Deploys trained tensorflow models to GCP via Apache Beam to predict shrubland habitat loss .
 
-- [hyper-iap](https://github.com/GMoncrieff/hyper-iap): A python module for mapping alien invasive plants from hyperspectral imagery using deep learning.
+- [hyper-iap](https://github.com/GMoncrieff/hyper-iap): Mapping alien invasive plants from hyperspectral imagery using deep learning.
   
 - [saeonobspy](https://github.com/GMoncrieff/saeonobspy): An Python package to query and downloaded environmental data from the SAEON observations database
 
