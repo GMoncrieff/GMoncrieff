@@ -18,7 +18,7 @@ I like to see science turned into real-world applications and software that the 
 
 - [hyper-iap](https://github.com/GMoncrieff/hyper-iap): A python module for mapping alien invasive plants from hyperspectral imagery using deep learning.
   
-- [saeonobsr](https://github.com/GMoncrieff/saeonobsr): An R package to query and downloaded environmental data from the SAEON observations database
+- [saeonobspy](https://github.com/GMoncrieff/saeonobspy): An Python package to query and downloaded environmental data from the SAEON observations database
 
 - [Ecological Monitoring and Management Application](https://github.com/AdamWilsonLab/emma_envdata): An environmental data processing pipeline for forecasting satellite observed postfire vegetation recovery
 
